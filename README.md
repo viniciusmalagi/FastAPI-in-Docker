@@ -5,7 +5,7 @@ In this project, we will provide a brief demonstration of how to build a simple 
 
 With FastAPI, you can quickly and efficiently create APIs, leveraging Python's static typing and asynchronous features to the fullest. MongoDB is a popular choice for storing data in modern applications, offering flexibility and scalability. And Docker allows you to package the application into a container, which can be easily deployed in different environments, making API deployment simpler and more portable.
 
-In this tutorial, we will cover basic steps, from setting up the environment with Docker, creating a FastAPI project, configuring MongoDB as the database, and implementing CRUD (Create, Read, Update, Delete) API routes using FastAPI. We will explore how FastAPI simplifies the process of creating APIs with features such as data input validation, automatic generation of interactive documentation, and more.
+In this tutorial, we will cover basic steps, from setting up the environment with Docker, creating a FastAPI project, configuring MongoDB as the database, and implementing API routes using FastAPI.
 
 If you are interested in building APIs quickly using modern technologies such as FastAPI, MongoDB, and Docker, this tutorial is a great starting point!
 
