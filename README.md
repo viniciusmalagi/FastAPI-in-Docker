@@ -35,7 +35,7 @@ Reference: https://hub.docker.com/_/mongo-express
   docker compose up
 ```
 ## Containers
-![alt text](https://github.com/viniciusmalagi/FastAPI-in-Docker/blob/main/images/containers_cars.png?raw=true)
+![alt text](https://github.com/viniciusmalagi/FastAPI-in-Docker/blob/main/images/api_cars.png?raw=true)
 
 ## MongoExpress
 ![alt text](https://github.com/viniciusmalagi/FastAPI-in-Docker/blob/main/images/mongoexpress.png?raw=true)
@@ -44,7 +44,7 @@ Reference: https://hub.docker.com/_/mongo-express
 ![alt text](https://github.com/viniciusmalagi/FastAPI-in-Docker/blob/main/images/api_cars.png?raw=true)
 
 ## API - specific car
-![alt text](https://github.com/viniciusmalagi/FastAPI-in-Docker/blob/main/images/specific_car.png?raw=true)
+![alt text](https://github.com/viniciusmalagi/FastAPI-in-Docker/blob/main/images/car.png?raw=true)
 
 
 ### Stopping Docker
