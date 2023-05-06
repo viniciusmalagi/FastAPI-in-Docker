@@ -47,7 +47,7 @@ Reference: https://hub.docker.com/_/mongo-express
 ![alt text](https://github.com/viniciusmalagi/FastAPI-in-Docker/blob/main/images/car.png?raw=true)
 
 
-### Stopping Docker
+### Stopping Containers
 ```bash
   docker compose down
 ```
